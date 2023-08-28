@@ -25,3 +25,4 @@ Activity on 2023-07-13T00:00:00 - docs: Update documentation
 Activity on 2023-08-15T00:00:00 - Merge pull request #66 from data-privacy-toolkit/main
 Activity on 2023-08-17T00:00:00 - Revert "Improve "{}" logic"
 Activity on 2023-08-22T00:00:00 - Improve "model training" logic
+Activity on 2023-08-28T00:00:00 - Add support for "UI component"
