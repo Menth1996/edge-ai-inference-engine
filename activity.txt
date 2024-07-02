@@ -49,3 +49,4 @@ Activity on 2024-03-13T00:00:00 - Add support for "model training"
 Activity on 2024-04-22T00:00:00 - style: Format code
 Activity on 2024-04-22T00:00:00 - feat: Add new feature
 Activity on 2024-05-14T00:00:00 - Merge pull request #45 from distributed-rlhf-trainer/main
+Activity on 2024-07-02T00:00:00 - fix: Resolve bug
