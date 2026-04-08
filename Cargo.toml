@@ -1,0 +1,8 @@
+[package]
+name = "edge-ai-inference-engine"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+ndarray = "0.15"
+ort = { version = "1.14", optional = true } # ONNX Runtime
